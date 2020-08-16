@@ -12,3 +12,5 @@ The power iteration program(main.c, spmat.h, spmat.c) receives two command-line 
 
 The program receives an input matrix and an implementation choice and outputs an estimate of its eigenvector
 with the highest eigenvalue, by storing and manipulating the input matrix as a sparse matrix using the chosen implementation.
+
+FINAL GRADE: 100
