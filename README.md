@@ -3,7 +3,6 @@ The input file is a matrix, and the output file produced should contain its cova
 
 
 
-
 The power iteration program(main.c, spmat.h, spmat.c) receives two command-line arguments. The program receives three or four arguments:
 1. Input matrix – file name of a symmetric matrix to perform power iteration on.
 2. Initial vector – file name of an initial vector b0 to use for power iteration (optional).
